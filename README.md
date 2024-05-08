@@ -25,3 +25,9 @@ This repository is divided to branches that correspond to the blog post sections
 ## 3.1 Original Code
 
 ![](assets/1.png)
+
+## 3.2 Add some creativities to the webclient
+
+![](assets/2.png)
+
+Saya merubah beberapa warna background menjadi hijau.
